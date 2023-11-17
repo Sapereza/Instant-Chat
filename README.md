@@ -1,8 +1,8 @@
-# React + Vite
+# Instant Chat Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application is to demonstrate my coding skills by providing you a small scale chat app.
 
-Currently, two official plugins are available:
+Simply sign in using your google email and chat instantly with other users expierencing this demo. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Usuage of this application is only available to those you have been provided a link by myself.
+
